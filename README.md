@@ -1,0 +1,1 @@
+# pomst-install-config
