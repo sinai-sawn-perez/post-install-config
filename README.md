@@ -51,7 +51,7 @@ You can also configure Deparments while within the Agents tab. Select Department
 <p>
 <img src="https://github.com/user-attachments/assets/d0f99387-3b68-4c1c-9fd3-50aff5bbfa9b"/>
 <p>
-New teams and Agents can also be created within this tab. osTicket provides the ability to assign Agents to Departments so they only see tickets relevant to that Department. Agents can also be brought in across multiple Departments and assigned to a Team to work a specific ticket that may require the services or resources of more than one Depatment
+New teams and Agents can also be created within the Agents tab. During creation you have the ability to assign Agents to specific Departments. Agents can also be brought in across multiple Departments and assigned to a Team to work on a ticket requiring the skills or resources of multiple Depatments.
 </p>
 <br />
 
