@@ -33,7 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://github.com/user-attachments/assets/42537132-e1e2-48bc-83ba-8cc7bbfeba2c"/>
 </p>
 <p>
-First sign into the osTicket Agent Page as an admin. Begin by selecting the admin panel, then select the Agent tab, then click on Roles. From here you can add/delete roles within your company, as well as define those roles and assign them permissions. 
+To configure Roles for your Organization first sign into the osTicket Agent Page as an admin. Begin by selecting the admin panel then, under the Agent tab select Roles. You can add/delete roles within your company, as well as define those roles and their permissions from this menu. See the image above for an example of the Agent Ticket Permissions menu.
 </p>
 <br />
 
@@ -41,7 +41,7 @@ First sign into the osTicket Agent Page as an admin. Begin by selecting the admi
 <img src="https://github.com/user-attachments/assets/6ded1770-27c9-4d04-95ce-02559b08d231"/>
 </p>
 <p>
-Also withing the Agents tab, select Departments to view/create dapartments for your company. From here you are able to select the Department's SLA, assign a Manager, set automatic responses, or adjust the ticket assignment of the Department.
+You can also configure Deparments while within the Agents tab. Select Departments to view/create Dapartments, you can also edit existing Departments in this tab. When creating/editing a Department you are able to set the Department's SLA, assign a Manager, set automatic responses, or adjust the ticket assignment of the Department. See the image above for an example of the Department creation menu.
 </p>
 <br />
 
