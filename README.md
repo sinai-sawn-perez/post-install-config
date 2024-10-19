@@ -51,7 +51,7 @@ You can also configure Deparments while within the Agents tab. Select Department
 <p>
 <img src="https://github.com/user-attachments/assets/d0f99387-3b68-4c1c-9fd3-50aff5bbfa9b"/>
 <p>
-New teams and Agents can also be created within the Agents tab. During creation you have the ability to assign Agents to specific Departments. Agents can also be brought in across multiple Departments and assigned to a Team to work on a ticket requiring the skills or resources of multiple Depatments.
+New teams and Agents can also be created within the Agents tab. During creation you have the ability to assign Agents to specific Departments. Agents can also be brought in across multiple Departments and assigned to a Team to work on a ticket requiring the skills or resources of multiple Departments.
 </p>
 <br />
 
@@ -60,7 +60,7 @@ New teams and Agents can also be created within the Agents tab. During creation 
 </p>
 
 <p>
-By default Agents have permission to create new Users, though users are able to create their own accounts or submit tickets under a guest account. If a User has an account attatched to their ticket, they will be able to check the status of the ticket as it's updated - and if you enable autoresponses then Users will recieve an email when the ticket is updated.
+By default Agents have permission to create new Users, alternatively users can create their own accounts or submit tickets under a guest account. If a User account is attatched to a ticket they will be able to check the status of the ticket as it's updated - and if autoresponses are enabled Users will recieve updates to the email address associated with the account.
 </p>
 <br />
 
@@ -68,13 +68,10 @@ By default Agents have permission to create new Users, though users are able to 
 <img src="https://github.com/user-attachments/assets/331be42a-6dda-4f14-a7af-6390003728c6"/>
 </p>
 <p>
-In the Manage tab existing SLA's (Service Level Agreements) can be updated, new SLA's can also be created here. One use of adding new SLA's is allowing Agents to have more options to choose from when marking the severity of a ticket. 
+From the Manage tab you can creat or edit SLA's (Service Level Agreement) for your organization. By adding new SLA's you create additional options for Agents to choose from when marking a new ticket's severity. 
 </p>
 <br />
 
-<p>
-<img src="https://github.com/user-attachments/assets/d22b8c1b-04b0-4968-befb-cee4d8d01df1"/>
-</p>
 <p>
 <img src="https://github.com/user-attachments/assets/d93b2f09-d176-4e03-b14e-5488766c5902"/>
 </p>
@@ -82,5 +79,5 @@ In the Manage tab existing SLA's (Service Level Agreements) can be updated, new 
 <img src="https://github.com/user-attachments/assets/0c894249-5453-4029-ad9d-9154ed67511d2"/>
 </p>
 <p>
-Specefic Help Topics can be updated or created under the Manage tab as well. In the example above, an admin account creates a topic with a high severity SLA attatched for critical business outages, though osTicket is entirley custumozable for the specific needs of the company.
+Help Topics can be created and edited within the Manage tab as well. In the first image above, see an example of an admin account creating a help topic for a specific type of issue - critical business outages. Then in the second image, see the an example of the admin attaching a high priority SLA to the topic to mark tickets related to "critical business outages" with the appropriate SLA for the severity of the issue. This is just one example, osTicket is entirley customizable to suit the specific needs of the organization.
 </p>
